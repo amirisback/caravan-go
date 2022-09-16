@@ -1,5 +1,5 @@
 ## Learning About Python Programming Language
-All About Python (still a plan)
+All About GoLang
 - v1.0.0 Development
 
 ## About This Project
@@ -7,11 +7,10 @@ All About Python (still a plan)
 - comming soon
 
 ## Reference
-- w3school.com - https://www.w3schools.com/python
+- w3school.com - https://www.w3schools.com/go
 
 ## Tools
-- Python (SDK) - https://www.python.org/downloads/
-- PyCharm JetBrain Community (IDE) - https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC
+- Go (SDK) - https://go.dev/dl/
 - Git (Windows) - https://git-scm.com/download/win 
 
 ## Colaborator
